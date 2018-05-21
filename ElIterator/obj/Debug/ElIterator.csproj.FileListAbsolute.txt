@@ -1,0 +1,14 @@
+C:\Users\Dmytro\source\repos\ElIterator\ElIterator\bin\Debug\ElIterator.exe.config
+C:\Users\Dmytro\source\repos\ElIterator\ElIterator\bin\Debug\ElIterator.exe
+C:\Users\Dmytro\source\repos\ElIterator\ElIterator\bin\Debug\ElIterator.pdb
+C:\Users\Dmytro\source\repos\ElIterator\ElIterator\obj\Debug\ElIterator.csprojAssemblyReference.cache
+C:\Users\Dmytro\source\repos\ElIterator\ElIterator\obj\Debug\ElIterator.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\source\repos\ElIterator\ElIterator\obj\Debug\ElIterator.exe
+C:\Users\Dmytro\source\repos\ElIterator\ElIterator\obj\Debug\ElIterator.pdb
+C:\Users\Dmytro\Desktop\Iterator\ElIterator\bin\Debug\ElIterator.exe.config
+C:\Users\Dmytro\Desktop\Iterator\ElIterator\bin\Debug\ElIterator.exe
+C:\Users\Dmytro\Desktop\Iterator\ElIterator\bin\Debug\ElIterator.pdb
+C:\Users\Dmytro\Desktop\Iterator\ElIterator\obj\Debug\ElIterator.csprojAssemblyReference.cache
+C:\Users\Dmytro\Desktop\Iterator\ElIterator\obj\Debug\ElIterator.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Desktop\Iterator\ElIterator\obj\Debug\ElIterator.exe
+C:\Users\Dmytro\Desktop\Iterator\ElIterator\obj\Debug\ElIterator.pdb
